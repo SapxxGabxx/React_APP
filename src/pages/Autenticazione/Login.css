@@ -1,0 +1,36 @@
+body {
+  height: 100%;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.stile {
+
+  padding: 2rem;
+  text-align: center;
+  background-image: url('aa.webp');
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-height: 100vh;
+
+}
+
+h1 {
+  text-align: center;
+}
+
+.sfondo {
+  padding: 2rem;
+  text-align: center;
+  background-image: url('sfondo.avif');
+  margin: 40px;
+  border-radius: 10px;
+
+}

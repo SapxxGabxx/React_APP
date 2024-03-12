@@ -1,0 +1,22 @@
+.navbar-custom {
+  background-image: url('dark-rough-cement-wall-background-graphic-design-wallpaper_226189-1662.avif');
+  display: flex;
+
+}
+
+.navbar-custom .navbar-brand {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.navbar-custom .btn-outline-primary {
+  color: #ffffff;
+  background-color: #0069d9;
+  margin-left: 30px;
+}
+
+.navbar-custom .btn-outline-danger {
+  color: #ffffff;
+  background-color: rgba(240, 79, 4, 0.947);
+  margin-left: 30px;
+}

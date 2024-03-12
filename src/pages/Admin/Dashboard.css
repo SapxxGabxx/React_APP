@@ -1,0 +1,44 @@
+.user-profile {
+    display: flex;
+    align-items: center;
+    margin-top: 70px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.profile-img {
+    max-width: 150px;
+    max-height: 150px;
+    margin-left: 130px;
+    border-radius: 50%;
+}
+
+.user-email {
+    flex-grow: 1;
+    font-size: 2rem;
+}
+
+.sezione {
+    margin-top: 20px;
+    margin-bottom: 70px;
+
+}
+
+.sezione1 {
+    margin-top: 80px;
+    margin-bottom: 70px;
+
+}
+
+h1 {
+    margin-top: 100px;
+    color: darkslateblue;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 80px;
+
+}
+
+.button-container .btn {
+    margin-right: 80px;
+}

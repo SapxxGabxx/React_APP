@@ -1,0 +1,38 @@
+.form-nuovo-corso {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 500px;
+    margin: auto;
+    background-color: bisque;
+    margin-bottom: 60px;
+    border-radius: 20px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+
+.form-group label {
+    margin-bottom: 20px;
+}
+
+.form-group input,
+.form-group textarea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.backg {
+    background-image: url(dark-rough-cement-wall-background-graphic-design-wallpaper_226189-1662.avif);
+}
+
+.btnew {
+    margin-bottom: 40px;
+    width: 150px;
+    text-align: center;
+    margin-left: 170px;
+}

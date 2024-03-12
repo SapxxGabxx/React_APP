@@ -1,0 +1,19 @@
+.footer {
+  background-color: #343a40;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  position: static;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.social-icons a {
+  margin: 0 10px;
+  color: white;
+}
+
+.social-icons svg {
+  width: 20px;
+}
