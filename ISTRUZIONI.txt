@@ -1,0 +1,17 @@
+ISTRUZIONI:
+
+database con dati aggiunti.
+Back-end modificato rispetto agli altri perchè ho dovuto fare delle aggiunzioni.
+Per il Front-end è consigliato usare i seguenti Utenti.
+
+Utente normale: 
+
+	Email: mauro@gmail.com
+	Password: Mauro1!
+
+ADMIN:
+
+	Email: sapgabriele@hotmail.it
+	Password: Gabriele1!
+
+ps. Ci sono alcune problematiche come le immagini che credo dovrebbero essere gestite anche nel db.
